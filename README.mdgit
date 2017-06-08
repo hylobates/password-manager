@@ -1,0 +1,1 @@
+# password-manager initgit add README.mdgit commit -m first commitgit remote add originhttps://github.com/hylobates/password-manager.gitgit push -u origin master
